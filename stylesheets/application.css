@@ -13,3 +13,9 @@
 #main-menu li a {
     color: #000000;
 }
+
+#h_logo {
+    background: url(../images/h_100.png);
+    width: 100px;
+    height: 100px;
+}
