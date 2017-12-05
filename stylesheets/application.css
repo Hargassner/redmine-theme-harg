@@ -25,3 +25,7 @@
 #quick-search {
     margin-right: 150px;
 }
+
+a.help {
+    visibility: hidden;
+}
