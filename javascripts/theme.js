@@ -1,5 +1,4 @@
-var jQ = document.createElement('script');
-jQ.type = 'text/javascript';
-jQ.src = 'http://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js';
-//jQ.onload = ;
-document.getElementsByTagName('head')[0].appendChild(jQ);
+// zusätzliches div für H-Logo
+var logo = document.createElement('div');
+logo.id = 'h_logo';
+document.getElementsByTagName('body')[0].appendChild(logo);
