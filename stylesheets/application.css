@@ -3,7 +3,7 @@
 
 /* add a logo in the header */
 #header {
-    background: #FF0000 url(../images/header_tile.png) no-repeat 0px;
+    background: #FF0000 url(../images/header_tile.png) 0px;
     padding-left: 5px;
     height: 126px;
 }
