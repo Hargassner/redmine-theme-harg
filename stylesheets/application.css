@@ -3,9 +3,9 @@
 
 /* add a logo in the header */
 #header {
-    background: #FF0000 url(../images/header.png) no-repeat 2px;
+    background: #FF0000 url(../images/header_tile.png) no-repeat 0px;
     padding-left: 5px;
-    height: 150px;
+    height: 126px;
 }
 
 /* move the project menu to the right */
