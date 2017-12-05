@@ -5,4 +5,4 @@ $(document).ready(function(){
   var b = document.getElementsByTagName('body')[0];
   b.appendChild(logo);
   logo.id = 'h_logo';
-};
+});
