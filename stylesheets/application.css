@@ -29,3 +29,7 @@
 a.help {
     visibility: hidden;
 }
+
+current_project {
+    font-size: 40px;
+}
