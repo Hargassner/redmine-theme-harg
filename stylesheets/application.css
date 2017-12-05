@@ -11,11 +11,17 @@
 
 /* move the project menu to the right */
 #main-menu li a {
-    color: #000000;
+    color: #6c6c6c;
 }
 
 #h_logo {
     background: url(../images/h_100.png);
-    width: 100px;
+    width: 110px;
     height: 100px;
+    float: right;
+    margin-top: -50px;
+}
+
+#quick-search {
+    margin-right: 150px;
 }
