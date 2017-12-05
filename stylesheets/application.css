@@ -5,6 +5,7 @@
 #header {
     background: #FF0000 url(../images/header.png) no-repeat 2px;
     padding-left: 5px;
+    height: 150px;
 }
 
 /* move the project menu to the right */
