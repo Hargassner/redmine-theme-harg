@@ -30,6 +30,6 @@ a.help {
     visibility: hidden;
 }
 
-current-project {
+span.current-project {
     font-size: 40px;
 }
