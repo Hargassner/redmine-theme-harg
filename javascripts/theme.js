@@ -1,4 +1,7 @@
+
 // zusätzliches div für H-Logo
 var logo = document.createElement('div');
 logo.id = 'h_logo';
-document.getElementsByTagName('body')[0].appendChild(logo);
+var b = document.getElementsByTagName('body')[0];
+b.appendChild(logo);
+logo.id = 'h_logo';
